@@ -2,6 +2,8 @@
 
 URL for website: http://127.0.0.1:5500/index.html 
 
+Link to Youtube Video: https://youtu.be/LYb8aSW6GKU
+
 In this project, most of my time was spent coding the website, so mainly HTML and CSS was used. For a lot of the time, I was stuck and confused. After reading through online sources and watching informative videos on coding webpages, I was able to begin coding my homepage. 
 
 The original goal of this project was to create a calendar of some sort and allow people to make remindars on this website. And when time came around, the website would send the user a email, text or call them. But, I found that this would take too long to do. 
