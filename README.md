@@ -16,6 +16,6 @@ I noticed even if the coding languages are different, the concepts and the way t
 
 When I was coding the animation, I started off with hard coding every point that made up the picture. After a couple days, I noticed that it could be easily done by using a for i in range statements siamiar to what we had learned in class for python. 
 
-There are pictures thayt are linked uploaded, this was originally suppose to be used for the website. But later was replaced by Javascript code. 
+There are pictures that are linked uploaded, these pcitures were originally suppose to be used for the website. But later was replaced by Javascript code. 
 
 The project is incompplete as I have added a lot of buttons, links and pages. I was able to code a small portion of those. 
