@@ -6,7 +6,7 @@ Link to Youtube Video: https://youtu.be/LYb8aSW6GKU
 
 Link to clock code: https://editor.p5js.org/8148775/sketches/2hJXrnnh6
 
-Link to animationn for National Star Day (April 12th): https://editor.p5js.org/8148775/sketches/fcUG_qd_E
+Link to animation for National Star Day (April 12th): https://editor.p5js.org/8148775/sketches/fcUG_qd_E
 
 In this project, most of my time was spent coding the website, so mainly HTML and CSS was used. For a lot of the time, I was stuck and confused. After reading through online sources and watching informative videos on coding webpages, I was able to begin coding my homepage. 
 
