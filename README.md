@@ -1,4 +1,5 @@
-# CIS-1051-Final-Project
+# Happy Calendaring
+*Temple University: CIS-151 Final Project*
 
 Youtube Video: https://youtu.be/LYb8aSW6GKU
 
